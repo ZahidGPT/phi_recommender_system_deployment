@@ -1,6 +1,6 @@
 streamlit==1.42.0
-torch==2.0.0  # or the latest stable version
-torchvision  # Optional, if you need it for any image processing
+torch==2.0.0+cpu  # Use CPU version
+torchvision==0.15.1+cpu  # Use CPU version
 pandas==2.0.3
 numpy==1.24.3
 scikit-learn==1.3.0

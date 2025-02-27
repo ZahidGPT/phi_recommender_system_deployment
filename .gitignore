@@ -1,5 +1,13 @@
-venv/
-__pycache__/
-*.pyc
-.DS_Store
-.env
+   __pycache__/
+   *.pyc
+   *.pyo
+   .pytest_cache/
+   .venv/
+   .env
+   .DS_Store
+   .git/
+   .gitignore
+   .idea/
+   .vscode/
+   tests/
+   venv/
